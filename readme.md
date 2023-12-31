@@ -22,3 +22,7 @@
 - Sanic & FastAPI
 - SpringBoot, Spring Cloud, Feign, OpenTelemetry, Solon
 - Elastic, Mongo
+
+### 当前职责
+
+当前，我负责测试和测试项目管理工作，并开发用于提高质量工程效能的工具链。
