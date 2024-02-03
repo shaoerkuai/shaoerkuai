@@ -4,7 +4,7 @@
 
 ### 语言
 
-- Javascript (Vue.js)
+- Javascript (Vue)
 - Shell
 - Python
 - Golang
@@ -14,15 +14,12 @@
 
 - ChaosBlade
 - Jenkins
-- Arthas (Incl instrumentation + agent)
-- Grafana
 - JMeter
 - Tailwind CSS
-- Nest.js
 - Sanic & FastAPI
 - SpringBoot, Spring Cloud, Feign, OpenTelemetry, Solon
 - Elastic, Mongo
 
 ### 当前职责
 
-当前，我负责测试和测试项目管理工作，并开发用于提高质量工程效能的工具链。
+当前，我负责测试和测试项目管理，并开发用于提高质量工程效能的工具链。
